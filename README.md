@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shork! 
-- 👀 Discord Bot Development & Game Development
-- 🌱 Learning JavaScript and Python
+- 👀 Discord Bot Development & Web Development
+- 🌱 Proficient in JavaScript, learning python.
 - 📫 Reach me at executivemarshall@gmail.com, or friend me on discord: Shork#9971
 
 <!---
